@@ -2,10 +2,9 @@
   <img src="tech-goldmine.png">
 </div>
 <br>
-<h1 align="center" style="font-size: 80px;" > TECH GOLDMINE
+<h1 align="center" style="font-size: 80px;" > TECH GOLDMINE</h1>
 
 <br>
-
 
 > Tech Goldmine is a one-stop shop for all your tech needs, featuring curated lists of the best Chrome extensions, VSCode extensions, software, web apps, shortcut keys ,develpor-communities, and other useful techniques and resources. With Tech Goldmine, you'll have everything you need to stay up-to-date and improve your productivity and efficiency in the tech world.
 
