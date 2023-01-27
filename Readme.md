@@ -8,6 +8,18 @@
 
 > Tech Goldmine is a one-stop shop for all your tech needs, featuring curated lists of the best Chrome extensions, VSCode extensions, software, web apps, shortcut keys ,develpor-communities, and other useful techniques and resources. With Tech Goldmine, you'll have everything you need to stay up-to-date and improve your productivity and efficiency in the tech world.
 
+<div align="center">
+
+
+| **Socials**                                               | **Extensions**                                    | **Apps**                                    | **Side-Resources**                                            |
+| --------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------- |
+| [Youtube](/Youtube-Trending-Channels/Readme.md)           | [VsCode-Extensions](/VScode-Extensions/Readme.md) | [Web-Apps](/Web-Apps/Readme.md)             | [Free-Courses](/Free-Courses/Readme.md)                       |
+| [Facebook](/Facebook-Expert-Pages/Readme.md)              | [VsCode-Shortcuts](/VSCode-Shortcuts/Readme.md)   | [Andriod-Apps](/Andriod-Apps/Readme.md)     | [Github-Top-Repositories](/Github-Top-Repositories/Readme.md) |
+| [Instagram](/Instagram-Tech-Pages/Readme.md)              | [Chrome-Extensions](/Chrome-Extensions/Readme.md) | [Desktop-Apps](/Desktop-Apps/Readme.md)     | [Learning-Resources](/Learning-Resources/Readme.md)           |
+| [Developer Communities](/Develpers-Communities/Readme.md) | [Tech Blogs](/Tech%20Blogs/Readme.md)             | [Linux-Guidance](/Linux-Guidance/Readme.md) | [Project-Resources](/Project-Resources/Readme.md)             |
+
+</div>
+
 # 🤝 Contributing
 
 "Feel free to contribute to this repository. If you want to add new features or resolve any issues, you can fork the repository and make changes to the code. If you only want to make changes to the file, you can create a pull request to the master branch. I will review it and, if it meets the necessary requirements, I will merge it into the branch. The same process applies for changes to the main branch as well.
