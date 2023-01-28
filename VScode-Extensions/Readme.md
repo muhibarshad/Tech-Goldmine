@@ -99,7 +99,7 @@ Vs code Extensions
 ## 4.Marquee
 
 <p align="center">
-    <img src="/ZSnaps/MArqueeExt.png" style="height: 30vh; padding-left: 40vh;">
+    <img src="/ZSnaps/MArqueeExt.png" style="height: 20vh; padding-left: 40vh;">
  </p>
 
 ### \* Get here:
