@@ -229,3 +229,42 @@ terminal, PR/code review support
 - Tabnine will automatically provide AI-powered autocomplete suggestions as you type.
 - Supports multiple languages and frameworks
 - Try free trial, then purchase subscription for advanced features.
+
+## 7.Code GPT
+
+<p align="center">
+  <img src="/ZSnaps/CodeGPTExt.png" style="height: 30vh; padding-left: 40vh;">
+ </p>
+
+ ### \* Get here:
+
+- [Download here](https://www.codegpt.co/)
+- You also download it in the vscode extension box.
+
+###  Features:
+
+- Generating **code snippets** and complete programs in various programming languages.
+
+- Ability to understand the **context** of the input provided and generate code that is semantically correct and compilable.
+
+- It can complete code by **suggesting** the next token(s) to write, in order to help the user to write code faster.
+
+- Capability to generate a **variety of code** styles and patterns.
+
+- It can also generate **comments and documentation** for the code generated.
+
+- Code GPT can be **integrated with different IDEs** and text editors via API.
+
+- It can be used for **code autocompletion**, code generation, and code summarization.
+
+- Code GPT is **continuously learning** from the code provided to it, thus making its predictions more accurate over time.
+
+- Code GPT can be **fine-tuned** for specific use-cases, such as a specific programming language or a specific task.
+
+- Code GPT is a **powerful tool** for developers and researchers, providing new ways to write, understand and generate code.
+
+### How to use it
+- Install CodeGPT extension in VS code
+- Write a comment asking for a specific code
+- Press cmd + shift + i
+- Use the code 😎
