@@ -159,3 +159,41 @@ Vs code Extensions
 
 
 **Please note**, that GitHub Copilot is currently in beta and still not available for all users.
+
+## 6.GitLens
+
+<p align="center">
+  <img src="/ZSnaps/GitLensExt.png" style="height: 30vh; padding-left: 40vh;">
+ </p>
+
+ ### \* Get here:
+
+- [Download here](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- You also download it in the vscode extension box.
+
+###  Features:
+- **Inline blame annotations**, which allow you to see who last modified each line of code.
+
+- A powerful and customizable file and **commit history explorer**, which allows you to easily navigate and search your repository's history.
+
+- Advanced **compare and merge functionality**, including the ability to compare different branches and commits, as well as the ability to resolve merge conflicts.
+
+- A variety of **Git-related commands**, including the ability to create and manage branches, commits, and tags.
+
+- A **built-in terminal**, which allows you to run Git commands directly from within Visual Studio Code.
+
+- Built-in **support** for PRs and code review, allowing you to easily review, comment, and merge pull requests from within Visual Studio Code.
+
+- GitLens also provides the **ability to compare changes** across different branches and commits, resolve merge conflicts, and more.
+
+- Finally, GitLens is built on top of the powerful and stable **Git library**, ensuring that all of its features are fast, reliable, and easy to use.
+
+### How to use it
+
+- Install GitLens in Visual Studio Code
+- Open project folder
+- Click on GitLens icon in bottom left corner
+- Use inline blame, file/commit history explorer, advanced compare/merge, built-in
+terminal, PR/code review support
+- Customize as required
+- Use built-on stable Git library.
