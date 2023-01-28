@@ -8,7 +8,7 @@ Vs code Extensions
 ## 1.Live Share
 
 <div align="center">
-    <img src="/ZSnaps/LiveShareExt.png" style="height: 40vh; padding-left: 50vh;">
+    <img src="/ZSnaps/LiveShareExt.png" style="height: 20vh; padding-left: 40vh;">
  </div>
 
 ###  Get here:
@@ -37,7 +37,7 @@ Vs code Extensions
 ## 2.GitHub Markdown Preview
 
 <p align="center">
-    <img src="/ZSnaps/MarkdownPreviewExt.png" style="height: 40vh; padding-left: 50vh;">
+    <img src="/ZSnaps/MarkdownPreviewExt.png" style="height: 20vh; padding-left: 40vh;">
  </p>
 
 ###  Get here:
@@ -67,7 +67,7 @@ Vs code Extensions
 ## 3.:emojisense 😄
 
 <p align="center">
-    <img src="/ZSnaps/EmojiExt.png" style="height: 40vh; padding-left: 50vh;">
+    <img src="/ZSnaps/EmojiExt.png" style="height: 20vh; padding-left: 40vh;">
  </p>
 
 ###  Get here:
