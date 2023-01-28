@@ -131,7 +131,7 @@ Vs code Extensions
 ## 5.Github Copilot
 
 <p align="center">
-  <img src="/ZSnaps/GithubCopilotExt.png" style="height: 20vh; padding-left: 40vh;">
+  <img src="/ZSnaps/GithubCopilotExt.png" style="height: 50vh; padding-left: 50vh;">
  </p>
 
  ### \* Get here:
