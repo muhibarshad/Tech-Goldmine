@@ -128,3 +128,34 @@ Vs code Extensions
 - Enter your name, create todos and be happy.
 
 
+## 5.Github Copilot
+
+<p align="center">
+  <img src="/ZSnaps/GithubCopilotExt.png" style="height: 20vh; padding-left: 40vh;">
+ </p>
+
+ ### \* Get here:
+
+- [Download here](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- You also download it in the vscode extension box.
+
+###  Features:
+- **Code completion** suggestions based on context and previously-written code
+- **Automated code** refactoring
+- Syntax and **error checking**
+- **In-line documentation** and parameter hints
+- **Integrated search** and navigation tools
+- Support for **multiple** programming languages
+- Collaboration tools, such as **inline commenting** and pull request management
+- **Integration** with other development tools and services, such as continuous integration
+  and debugging tools
+- Ability to view and **compare changes** in code over time
+- **Customizable** settings and preferences.
+
+### How to use it
+- Install GitHub Copilot extension in your code editor and sign in to your GitHub account using the extension
+- Start using GitHub Copilot's code assistance features by writing code, it will provide suggestions, error checking and documentation as you work.
+- It will give you suggestions if you want to include them just pres tab button.
+
+
+**Please note**, that GitHub Copilot is currently in beta and still not available for all users.
