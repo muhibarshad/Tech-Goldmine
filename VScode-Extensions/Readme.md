@@ -126,3 +126,5 @@ Vs code Extensions
 - Type marquee and hit enter.
 - Restart Visual Studio Code.
 - Enter your name, create todos and be happy.
+
+

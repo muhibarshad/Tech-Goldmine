@@ -1,11 +1,45 @@
-# Contributing to Tech Goldmine
+<div align="center">
+<h1>
+Contributing to Tech Goldmine
+</h1>
+</div>
 
-We welcome and appreciate contributions from the community. If you have a suggestion for an improvement or a new feature, or you've found a bug that you'd like to report, please don't hesitate to open an issue or submit a pull request.
+## Contributing-Guideline
 
-## How to contribute ?
+We welcome contributions to this project and appreciate your help in making it better. Please follow these guidelines when submitting new technologies to be added to the project.
 
+## Adding a new tech
 
+When adding a new technology, please follow the format below:
 
+```md
+## serialNo. Name of tech
+
+<p align="center">
+    <img src="/ZSnaps/techName.png" style="height: 20vh; padding-left: 40vh;">
+ </p>
+
+### Get here 🔽
+
+- [Download here](webDownloadLink)
+- Add another resource to get
+
+### Features 🚀
+
+- Write them in a very short, descriptive bullet forms
+
+### How to use it ⏯️
+
+- Write them in a very short, descriptive bullet forms
+```
+
+>**Note:** Be sure to include a cropped screenshot of the technology in the `Zsnaps` folder with the file name `techName.png`.
+
+### Submitting your contribution
+
+Once you have completed your contribution, please submit a pull request for review. We will review your submission and make any necessary changes before merging it into the main branch.
+
+Thank you for your contribution!
 
 ## Here are some guidelines to follow when contributing to Tech Goldmine:
 
