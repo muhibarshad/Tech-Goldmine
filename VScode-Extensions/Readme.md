@@ -268,3 +268,39 @@ terminal, PR/code review support
 - Write a comment asking for a specific code
 - Press cmd + shift + i
 - Use the code 😎
+
+## 7.BlackBox
+
+<p align="center">
+  <img src="/ZSnaps/BlackBoxExt.png" style="height: 30vh; padding-left: 40vh;">
+ </p>
+
+ ### \* Get here:
+
+- [Download here](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox)
+- You also download it in the vscode extension box.
+
+###  Features:
+
+- **Hide specific files** or directories from the debugger, making it easier to focus on the code you want to debug.
+
+- Allows you to blackbox **third-party libraries**, making it easier to navigate and understand the code you're working on.
+
+- Blackbox files or directories with a **single click** in the editor or via the command palette.
+
+- Blackbox state is **persisted** across debugging sessions and can be easily shared with other developers on your team.
+
+- Can be used with any **debugging configuration**, whether it be Node.js, Python, or any other language.
+
+- It can be used to improve the **debugging experience** by reducing the noise and clutter caused by third-party libraries or other code you're not currently interested in.
+
+- It is very helpful when you have **big project** and you want to focus on specific part of the code.
+
+### How to use it
+
+- Install Blackbox extension in VS Code
+- Start debugging
+- Right-click on file/folder, select "Blackbox"
+- To un-blackbox, right-click, select "Un-blackbox"
+- Repeat for multiple files/folders
+- Stop debugging.
