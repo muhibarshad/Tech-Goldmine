@@ -197,3 +197,35 @@ Vs code Extensions
 terminal, PR/code review support
 - Customize as required
 - Use built-on stable Git library.
+
+## 7.Tabnine AI
+
+<p align="center">
+  <img src="/ZSnaps/TabnineAIExt.png" style="height: 30vh; padding-left: 40vh;">
+ </p>
+
+ ### \* Get here:
+
+- [Download here](https://www.tabnine.com/install/vscode)
+- You also download it in the vscode extension box.
+
+###  Features:
+
+- Tabnine is an **AI-powered autocomplete** extension for Visual Studio Code.
+
+- It uses machine learning to **predict** what code you are likely to write next, based on the context of your current file and your previous coding history.
+
+- It also supports **multiple languages** and frameworks, including JavaScript, Python, Java, C++, and more.
+
+- Tabnine also provides **advanced features** like variable name suggestion, function suggestion, and even suggest entire blocks of code.
+
+- It also offers the ability to **customize** the autocomplete suggestions, for example, to prioritize suggestions from your most recent projects.
+
+- Tabnine is **easy to set up**, and once it's running, it will work seamlessly in the background, providing you with autocomplete suggestions as you type.
+
+### How to use it
+- Install Tabnine extension in Visual Studio Code
+- Open the project you want to work on
+- Tabnine will automatically provide AI-powered autocomplete suggestions as you type.
+- Supports multiple languages and frameworks
+- Try free trial, then purchase subscription for advanced features.
