@@ -310,11 +310,11 @@ Vs code Extensions
 
 ## 8.CodeSnap
 
-### Get here:
-
 <p align="center">
   <img src="/ZSnaps/codesnap.png" style="height: 30vh; padding-left: 40vh;">
  </p>
+
+### Get here:
 
 - [Download here](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - You also download it in the vscode extension box.
@@ -338,11 +338,11 @@ Vs code Extensions
 
 ## 9.Codex
 
-### Get here:
-
 <p align="center">
   <img src="/ZSnaps/codex.png" style="height: 30vh; padding-left: 40vh;">
  </p>
+
+### Get here:
 
 - [Download here](https://marketplace.visualstudio.com/items?itemName=CodexBuild.codex-build)
 - You also download it in the vscode extension box.
@@ -375,11 +375,11 @@ Vs code Extensions
 
 ## 10.Hex Editor
 
-### Get here:
-
 <p align="center">
   <img src="/ZSnaps/hexeditor.png" style="height: 30vh; padding-left: 40vh;">
  </p>
+
+### Get here:
 
 - [Download here](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
 - You also download it in the vscode extension box.
@@ -404,11 +404,11 @@ Vs code Extensions
 
 ## 11.Kodezi
 
-### Get here:
-
 <p align="center">
   <img src="/ZSnaps/kodezi.png" style="height: 30vh; padding-left: 40vh;">
  </p>
+
+### Get here:
 
 - [Download here](https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi)
 - You also download it in the vscode extension box.
